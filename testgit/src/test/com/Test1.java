@@ -5,6 +5,6 @@ public class Test1 {
 		System.out.println("OK!");
 		System.out.println("Git");
 		
-		
+		System.out.println("KKK");
 	}
 }
