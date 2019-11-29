@@ -7,5 +7,6 @@ public class Test1 {
 		
 		System.out.println("KKK");
 		System.out.println("www");
+		System.out.println("88888");
 	}
 }
