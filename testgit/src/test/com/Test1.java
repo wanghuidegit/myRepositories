@@ -6,5 +6,6 @@ public class Test1 {
 		System.out.println("Git");
 		
 		System.out.println("KKK");
+		System.out.println("www");
 	}
 }
